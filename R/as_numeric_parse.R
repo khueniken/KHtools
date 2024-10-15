@@ -2,7 +2,7 @@
 #'
 #' This function is a wrapper for as.numeric(). It takes a vector as input and
 #' returns a numeric vector, while printing to the console every entry that
-#' cannot be coerced.
+#' cannot be coerced. Editing this file for fetch. 
 #' @param x a string or vector to coerce to numeric
 #' @param ... additional arguments passed to `as.numeric()
 #' @keywords KHtools
